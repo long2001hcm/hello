@@ -1,0 +1,2 @@
+confirm("AA");
+alert("BB");
